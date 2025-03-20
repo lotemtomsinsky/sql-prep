@@ -11,11 +11,11 @@ As I work through various reasources for interview prep, this repository contain
 
 I am currently working through the LeetCode SQL 50 with MySQL. I will continue updating this repository as I progress.
 
-✅ Completed: Select, Basic Joins
+✅ Completed: Select, Basic Joins, Basic Aggregate Functions, Sorting and Grouping
 
-🚧 In progress: Basic Aggregate Functions
+🚧 In progress: Advanced Select and Joins
 
-🔜 Upcoming: Sorting and Grouping, Advanced Select and Joins, Subqueries, Advanced String Functions/Regex/Clause
+🔜 Upcoming: Subqueries, Advanced String Functions/Regex/Clause
 
 ## _How to Use_
 
